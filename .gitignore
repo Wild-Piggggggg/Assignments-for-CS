@@ -1,0 +1,7 @@
+__pycache__/
+
+data/train/*.jpg
+data/test1/*.jpg
+
+*.pth
+events*
